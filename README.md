@@ -4,4 +4,6 @@ Api : https://earthquake.usgs.gov/fdsnws/event/1/
 Using:
 ListView,
 AsyncTaskLoader.
+By clicking each item on list, you will be navigated to the USGS page about
+the specific earthquake.
 
