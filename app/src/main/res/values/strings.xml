@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">USGS Earthquake List</string>
+    <string name="feb_20_2021">Feb 20 2021</string>
+    <string name="_4_28_pm">4:28 PM</string>
+    <string name="No_Connection">No-Connection</string>
+    <string name="_4_8">4.8</string>
+</resources>
